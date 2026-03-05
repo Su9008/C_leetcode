@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\191-Number of 1 Bits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFDE722-65AD-4D6E-B711-FF44DD4E0980}|191-Number of 1 Bits\\191-Number of 1 Bits.vcxproj|D:\\codeProject\\C_leetcode\\191-Number of 1 Bits\\191-Number of 1 Bits\\Number of 1 Bits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFFDE722-65AD-4D6E-B711-FF44DD4E0980}|191-Number of 1 Bits\\191-Number of 1 Bits.vcxproj|solutionrelative:191-Number of 1 Bits\\Number of 1 Bits.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number of 1 Bits.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\191-Number of 1 Bits\\191-Number of 1 Bits\\Number of 1 Bits.c",
+              "RelativeDocumentMoniker": "191-Number of 1 Bits\\Number of 1 Bits.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\191-Number of 1 Bits\\191-Number of 1 Bits\\Number of 1 Bits.c",
+              "RelativeToolTip": "191-Number of 1 Bits\\Number of 1 Bits.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-05T08:45:59.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
