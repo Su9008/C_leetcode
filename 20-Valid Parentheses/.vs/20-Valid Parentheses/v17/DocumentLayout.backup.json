@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\20-Valid Parentheses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA5D227-C0B5-46BD-A924-952723DEDFEE}|20-Valid Parentheses\\20-Valid Parentheses.vcxproj|D:\\codeProject\\C_leetcode\\20-Valid Parentheses\\20-Valid Parentheses\\Valid Parentheses.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAA5D227-C0B5-46BD-A924-952723DEDFEE}|20-Valid Parentheses\\20-Valid Parentheses.vcxproj|solutionrelative:20-Valid Parentheses\\Valid Parentheses.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Valid Parentheses.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\20-Valid Parentheses\\20-Valid Parentheses\\Valid Parentheses.c",
+              "RelativeDocumentMoniker": "20-Valid Parentheses\\Valid Parentheses.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\20-Valid Parentheses\\20-Valid Parentheses\\Valid Parentheses.c*",
+              "RelativeToolTip": "20-Valid Parentheses\\Valid Parentheses.c*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-10T10:14:22.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
