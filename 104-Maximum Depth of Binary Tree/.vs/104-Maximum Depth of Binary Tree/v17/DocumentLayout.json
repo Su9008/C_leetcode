@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\104-Maximum Depth of Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9BD0AB-2FCE-45E4-9BF4-25DEDFDBF445}|104-Maximum Depth of Binary Tree\\104-Maximum Depth of Binary Tree.vcxproj|D:\\codeProject\\C_leetcode\\104-Maximum Depth of Binary Tree\\104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F9BD0AB-2FCE-45E4-9BF4-25DEDFDBF445}|104-Maximum Depth of Binary Tree\\104-Maximum Depth of Binary Tree.vcxproj|solutionrelative:104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maximum Depth of Binary Tree.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\104-Maximum Depth of Binary Tree\\104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c",
+              "RelativeDocumentMoniker": "104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\104-Maximum Depth of Binary Tree\\104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c",
+              "RelativeToolTip": "104-Maximum Depth of Binary Tree\\Maximum Depth of Binary Tree.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-11T15:02:08.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
