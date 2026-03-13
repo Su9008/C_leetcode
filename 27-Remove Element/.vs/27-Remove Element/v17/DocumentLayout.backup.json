@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\27-Remove Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71162E32-7A9A-4AC3-99CD-5F7DE953F808}|27-Remove Element\\27-Remove Element.vcxproj|D:\\codeProject\\C_leetcode\\27-Remove Element\\27-Remove Element\\27-Remove Element.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71162E32-7A9A-4AC3-99CD-5F7DE953F808}|27-Remove Element\\27-Remove Element.vcxproj|solutionrelative:27-Remove Element\\27-Remove Element.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "27-Remove Element.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\27-Remove Element\\27-Remove Element\\27-Remove Element.c",
+              "RelativeDocumentMoniker": "27-Remove Element\\27-Remove Element.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\27-Remove Element\\27-Remove Element\\27-Remove Element.c*",
+              "RelativeToolTip": "27-Remove Element\\27-Remove Element.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-13T01:32:43.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
