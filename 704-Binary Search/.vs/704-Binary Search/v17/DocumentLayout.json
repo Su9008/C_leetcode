@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\704-Binary Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE880C4-FC37-4C2C-A4A0-3CBED2D5A2CB}|704-Binary Search\\704-Binary Search.vcxproj|D:\\codeProject\\C_leetcode\\704-Binary Search\\704-Binary Search\\Binary Search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE880C4-FC37-4C2C-A4A0-3CBED2D5A2CB}|704-Binary Search\\704-Binary Search.vcxproj|solutionrelative:704-Binary Search\\Binary Search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary Search.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\704-Binary Search\\704-Binary Search\\Binary Search.c",
+              "RelativeDocumentMoniker": "704-Binary Search\\Binary Search.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\704-Binary Search\\704-Binary Search\\Binary Search.c",
+              "RelativeToolTip": "704-Binary Search\\Binary Search.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-14T07:19:44.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
