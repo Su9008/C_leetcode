@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\C_leetcode\\1486-XOR Operation in an Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F291CFE8-30C2-42A8-ACDC-9C98DAF4F04B}|1486-XOR Operation in an Array\\1486-XOR Operation in an Array.vcxproj|D:\\codeProject\\C_leetcode\\1486-XOR Operation in an Array\\1486-XOR Operation in an Array\\XOR Operation in an Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F291CFE8-30C2-42A8-ACDC-9C98DAF4F04B}|1486-XOR Operation in an Array\\1486-XOR Operation in an Array.vcxproj|solutionrelative:1486-XOR Operation in an Array\\XOR Operation in an Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XOR Operation in an Array.c",
+              "DocumentMoniker": "D:\\codeProject\\C_leetcode\\1486-XOR Operation in an Array\\1486-XOR Operation in an Array\\XOR Operation in an Array.c",
+              "RelativeDocumentMoniker": "1486-XOR Operation in an Array\\XOR Operation in an Array.c",
+              "ToolTip": "D:\\codeProject\\C_leetcode\\1486-XOR Operation in an Array\\1486-XOR Operation in an Array\\XOR Operation in an Array.c*",
+              "RelativeToolTip": "1486-XOR Operation in an Array\\XOR Operation in an Array.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-31T10:34:21.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
